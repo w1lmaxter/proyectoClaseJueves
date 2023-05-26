@@ -1,5 +1,5 @@
 package proyectomundial;
-
+//proyectoProfesor
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.FlowLayout;
